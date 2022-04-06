@@ -1,0 +1,4 @@
+enum tasktype {
+  task,
+  note,
+}
